@@ -1,0 +1,12 @@
+CCC1OC(=O)C(C)C(OC2CC(C)(OC)C(O)C(C)O2)C(C)C(OC2OC(C)CC(N(C)C)C2O)C(C)(O)CC(C)C(=O)C(C)C(O)C1(C)O	erythromycin
+CC(=O)OC1C(C)OC(c2ccc3c(c2O)C(O)C24OC2(C3=O)C2(O)C(=O)C=C(C)CC2(O)CC4O)CC1OC(=O)C=CC=CC=CC=CC(=O)Nc1c(O)c2ccc(O)c(Cl)c2oc1=O	simocyclinone_D8
+COc1ccc2c(O)c(NC(=O)c3cc(OC4CC(C)([N+](=O)[O-])C(OC)C(C)O4)c(O)c(C(=O)OC4C(C)C=C(C)C(=O)c5c(O)c(C)cc6c5C(=O)C5=C(NCC(C)(O5)C(=O)C4O)C6=O)n3)c(=O)oc2c1	rubradirin
+Cc1cc(O)c2c(c1)CC(O)C1=C2C(=O)c2c(O)ccc(OC3CC(O)C(OC4CC(OC5CCC(OC6CC(O)C(OC7CC(OC8CCC(O)C(C)O8)C(O)C(C)O7)C(C)O6)C(C)O5)C(O)C(C)O4)C(C)O3)c2C1=O	landomycin_A
+CC1OC(OC23C(=O)CC(C)(O)CC2(O)C=CC2=C3C(=O)c3ccc(C4CC(OC5CCC(OC6CC(O)C(O)C(C)O6)C(C)O5)C(O)C(C)O4)c(O)c3C2=O)CCC1O	urdamycin_A
+CCNC1COC(OC2C(OC3C#CC=CC#CC4(O)CC(=O)C(NC(=O)OC)=C3C4=CCSSSC)OC(C)C(NOC3CC(O)C(SC(=O)c4c(C)c(I)c(OC5OC(C)C(O)C(OC)C5O)c(OC)c4OC)C(C)O3)C2O)CC1OC	calicheamicin
+COc1ccc(Cl)c(C)c1C(=O)OC1CC(OC2C(O)CC(OC3CCCC4C3C=CC3CCCCC=CC5C=C(C(=O)O)C(C)CC56OC(=O)C(=C6O)OC(=O)C34C)OC2C)OC(C)C1O	chlorothricin
+COC1=CC(=O)c2c(O)c3c(c(C)c2C1=O)CC1(O)C(OC2CCC(OC4CC(C)(O)C(OC(=O)c5c(C)ccc(C)c5O)C(C)O4)C(C)O2)C(=O)C(C(C)=O)=C(O)C1(O)C3=O	polyketomycin
+CCCCCC=CCC=CCCCCCCCC(=O)NC1CC(O)C(O)NC(=O)C2CC(C)CN2C(=O)C(C(C)O)NC(=O)C(C(O)C(O)c2ccc(O)cc2)NC(=O)C2CC(O)CN2C(=O)C(C(C)O)NC1=O	echinocandin_b
+CCC(C)C1NC(=O)C(Cc2ccccc2)NC(=O)C2CCCN2C(=O)CNC(=O)C(CCC(N)=O)NC(=O)C(O)C(CC(O)CCCc2ccccc2)NC(=O)C2CCCN2C1=O	nostophycin
+O=C1OCC(N=C(O)c2cccc(O)c2O)C(=O)OCC(N=C(O)c2cccc(O)c2O)C(=O)OCC1N=C(O)c1cccc(O)c1O	enterobacin
+CNC(CC(C)C)C(=O)NC1C(=O)NC(CC(N)=O)C(=O)NC2C(=O)NC3C(=O)NC(C(=O)NC(C(=O)O)c4cc(O)cc(O)c4-c4cc3ccc4O)C(O)c3ccc(c(Cl)c3)Oc3cc2cc(c3OC2OC(CO)C(O)C(O)C2OC2CC(C)(N)C(O)C(C)O2)Oc2ccc(cc2Cl)C1O	vancomycin
