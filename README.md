@@ -15,6 +15,6 @@ Download Top-down/NPRules.txt and upload the file in the main molBLOCKS director
 ### Bottom-up method
 After the installation of the RDKit library, the scrips provided in the bottom-up directory can be used directly.  
 
-25-01-'19
 
+25-01-'19
 Sam Stokman
