@@ -1,0 +1,45 @@
+[c]!@[c]        aro_c-aro_c
+[c]!@[n]        aro_c-aro_n
+[c]!@[C$(C[!Ch3,Cl,S])] aro_c-ali_C_Cl_S
+[c]!@[C$(C(@C)@C)]  aro_c-cyclic_ali_c
+[c]!@[C$(C(@c)@C)]      aro_c-cyclic_ali&aro_c
+[c]!@[C$(C!@C!@C!@C!@C)]	aro_c-pentane_chain
+[c]!@[C$(C!@=C!@-C!@=C!@-C)]	aro_c-pentene_chain
+[c]!@[C$(C!@N@C)]       aro_c-specific1
+[c]!@[C$(C=C@C)]	aro_c- specific2
+[c]!@[S$(S[c,C])]        aro_c-S_ali&aro_c
+[C$(C(@C)@C)]!@[n]      ali_cyclic_C-aro_n
+[C$(C(@C)@C)]!@[C$(C(@C)@C)]    ali_cyclic_C-ali_cyclic_C
+[C$(C(@C)@C)]!@[C$(C(@C)@O)]    ali_cyclic_C-ali_cyclic_C&O
+[C$(C(@C)@C)]!@[C$(C(!@C@O)!@C)]        ali_cyclic_C-specific1
+[C$(C(@C)@C)]!@[C$(C(!@C!@C)!@C)]       ali_cyclic_C-specific2
+[C$(C(@C)@C)]!@[C$(C!@C!@C!@C!@C)]	ali_cyclic_C-pentane_chain
+[C$(C(@C)@C)]!@[C$(C!@=C!@-C!@=C!@-C)]	ali_cyclic_C-pentene_chain
+[C$(C(@[C,c])@O)]!@[C$(C(@[C,c])@N)]    ali_ cyclic_C&O- ali_cyclic_C&N
+[C$(C(@O)=@C@C)]!@[C$(C=!@C!@C)]        specific3-specific4
+[C$(C(c)=O)]-[O$(OC@C)] specific5-specific6
+[c]-[$(*1O****1)]       aro_c-sugar_wildcards1
+[c]-[$(*1**O**1)]       aro_c-sugar_wildcards3
+[c]-[O$(OC1OCCCC1)]     aro_c-O_sugar1
+[c]-[O$(OCC1OCCCC1)]    aro_c-O_sugar1.1
+[O$(OC1OCCCC1)]-[C$(C1COCCC1)]  O_sugar1-sugar2
+[O$(OC1OCCCC1)]-[C$(C1CCOCC1)]  O_sugar1-sugar3
+[O$(OC1OCCCC1)]-[C$(C!@C@C)]    O_sugar1-acylcic_C_cyclic_C
+[O$(OC1OCCCC1)]-[C$(C(@C)@C)]   O_sugar1-cyclic_ali_c
+[O$(OC1OCCC1)]-[C$(C1OCCC1)]	O_fructose1-fructose
+[NH1,NH0]-[CH0$(C=!@O)] amide=O
+[NH0]=[CH0$(C-O)]       amide-OH
+[C$(C(=O)c)]!@[O$(O!@C!@C@C)]   ester-aro&specific
+[C$(C(=O)c)]!@[O$(Oc)]  ester-aro&aro
+[C$(C(=O)c)]!@[O$(OC(@C)(@C))]  ester-aro&ali
+[C$(C(=O)c)]!@[O$(O!@C!@C@C)]   ester-aro&specific
+[C$(C(=O)C(@C)@C)]!@[O$(Oc)]    ester-ali&aro
+[C$(C(=O)C(@C)@C)]!@[O$(OC(@C)(@C))]    ester-ali&ali
+[C$(C(=O)!@-C!@=C!@-C!@=C)]!@[O$(OC(@C)(@C))]   ester-pentene_chain&ali
+[C$(C(=O)!@-C!@-C!@-C!@-C)]!@[O$(OC(@C)(@C))]	ester pentane_chain&ali
+[C$(C(=O)!@-C!@=C!@-C!@=C)]!@[O$(Oc)]	ester-pentene_chain&aro
+[C$(C(=O)!@-C!@-C!@-C!@-C)]!@[O$(Oc)]   ester-pentane_chain&aro
+[C$(C(=O)C(@C)@C)]!@[O$(O!@-C!@-C!@-C!@-C)] ester-ali&pentane_chain
+[C$(C(=O)C(@C)@C)]!@[O$(O!@-C!@=C!@-C!@=C)] ester-ali&pentene_chain
+[C$(C(=O)c)]!@[O$(O!@-C!@-C!@-C!@-C)] ester-aro&pentane_chain
+[C$(C(=O)c)]!@[O$(O!@-C!@=C!@-C!@=C)] ester-aro&pentene_chain
