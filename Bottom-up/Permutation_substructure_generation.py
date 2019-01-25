@@ -2,12 +2,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on Fri Nov  2 11:00:54 2018
-Script that first generated all possible substructures using the 
-permutation method and then filters the substructures base on mol weight, 
+Script that first generates all possible substructures using the 
+permutation method and then filters the substructures based on mol weight, 
 presence of hetero atoms, nr of rings in the substructure, abundancy and 
 nr of the bonds which are connected to the rest structure.
 
-Command line: python3 permutation_generate_substructures.py -i [input file] -m [minimum mol weight] -h [nr of hetero atoms] -r [nr of rings] -a [abundancy] -b [nr of bonds]
+Command line: python3 permutation_substructure_generation.py -i [input file] -m [minimum mol weight] -h [nr of hetero atoms] -r [nr of rings] -a [abundancy] -b [nr of bonds]
 @author: stokm006
 """
 
