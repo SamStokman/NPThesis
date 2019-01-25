@@ -1,6 +1,6 @@
 # NPThesis
 
-The repository NPThesis stores python scripts mentioned in MSc thesis  'Creating a Natural Product Database and Generating Molecular Substructures'.
+The repository NPThesis stores python scripts mentioned in the MSc thesis  'Creating a Natural Product Database and Generating Molecular Substructures'.
 
 ### NPDatabase
 NPDatabase can be downloaded from:
@@ -17,4 +17,5 @@ After the installation of the RDKit library, the scrips provided in the bottom-u
 
 
 25-01-'19
+
 Sam Stokman
