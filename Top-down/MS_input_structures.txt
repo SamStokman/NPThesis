@@ -1,0 +1,12 @@
+COc1ccc2c(c1OC)C(=O)OC2C1c2c(cc3c(c2OC)OCO3)CCN1C	noscapine
+C=C(C)C1NC(=O)C(NC)C(O)c2cc(Cl)c(O)c(c2)OC(C)(CC)C(C(=O)N2CC=CC2C(=O)NC(C(=O)NC(=CC(=O)O)C(=O)O)=C(C)CC)NC1=O	phomopsin_A
+CC(C)CCCC(C)C1CCC2C3CC=C4CC(O)CCC4(C)C3CCC12C	cholesterol_d6
+CCCc1nn(C)c2c(=O)nc(-c3cc(S(=O)(=O)N4CCN(C)CC4)ccc3OCC)[nH]c12	sildenafil
+O=C(CCC(=O)C(=O)O)Nc1ccc(Cl)c(Cl)c1	DCAX
+CC(=O)Nc1ccc(O)c(SCC(N)C(=O)N2CCCC2C(=O)NC(Cc2ccccc2)C(=O)O)c1	NAPQI
+O=C(NCCCCNC(=O)C(CCCCNC(=O)c1cccc(O)c1O)NC(=O)c1cccc(O)c1O)c1cccc(O)c1O	protochelin_a
+O=C(CCCN1CCC(O)(c2ccc(Cl)cc2)CC1)c1ccc(F)cc1	haloperidol
+CN(C)c1cccc2c(S(=O)(=O)N=[N+]=N)cccc12	azide_dansyl_chloride
+C#CCCCC1OC(=O)CNC(=O)C(C(C)CC)NC(=O)C(C(C)C)OC(=O)C(C(C)C)NC(=O)C1(C)C	yuvalamide_a
+CC(=O)OC1C(=O)C2(C)C(O)CC3OCC3(OC(C)=O)C2C(OC(=O)c2ccccc2)C2(O)CC(OC(=O)C(O)C(NC(=O)c3ccccc3)c3ccccc3)C(C)=C1C2(C)C	paclitaxel
+COC1C(OC(N)=O)C(O)C(Oc2ccc3c(O)c(NC(=O)c4ccc(O)c(CC=C(C)C)c4)c(=O)oc3c2C)OC1(C)C	novobiocin
